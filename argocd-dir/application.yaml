@@ -1,0 +1,21 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: reanimated
+  namespace: argocd
+spec:
+  project: default
+  source:
+    repoURL: https://github.com/jerrygems/test-repo.git
+    targetRevision: HEAD
+    path: argocd
+  destination:
+    server: kubernetes.default.svc
+    namespace: testapp
+
+  syncPolicy:
+    syncOptions:
+    - CreateNamespace=true
+    automated:
+      selfHeal: true
+      prune: true
