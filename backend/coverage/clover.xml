@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1727761385877" clover="3.2.0">
+  <project timestamp="1727761385877" name="All files">
+    <metrics statements="42" coveredstatements="18" conditionals="8" coveredconditionals="2" methods="5" coveredmethods="1" elements="55" coveredelements="21" complexity="0" loc="42" ncloc="42" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="/home/spidey/autobot/backend/index.js">
+      <metrics statements="42" coveredstatements="18" conditionals="8" coveredconditionals="2" methods="5" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="30" count="0" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="36" count="0" type="stmt"/>
+      <line num="37" count="0" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="46" count="0" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="48" count="0" type="stmt"/>
+      <line num="49" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="50" count="0" type="stmt"/>
+      <line num="52" count="0" type="stmt"/>
+      <line num="55" count="0" type="stmt"/>
+      <line num="56" count="0" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="63" count="1" type="stmt"/>
+      <line num="65" count="0" type="stmt"/>
+      <line num="66" count="0" type="stmt"/>
+      <line num="70" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="71" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="72" count="0" type="stmt"/>
+      <line num="73" count="0" type="stmt"/>
+      <line num="74" count="0" type="stmt"/>
+      <line num="78" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
